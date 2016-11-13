@@ -1,0 +1,12 @@
+Pokeball::100::50::Pokeball
+Greatball::500::20::Pokeball
+Ultraball::1000::5::Pokeball
+Rarecandy::2000::1::Consumable
+Potion::100::50::Consumable
+Super Repel::200::20::Consumable
+Quick Claw::3000::2::Holdable
+Berry::100::50::Holdable
+EXP Share::5000::1::Holdable
+HM 01::1000::5::HM
+HM 06::2000::5::HM
+HM 04::500::5::HM

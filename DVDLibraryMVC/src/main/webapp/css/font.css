@@ -1,0 +1,26 @@
+body {
+    font-family: Roboto !important;
+}
+#panel, #dvdDisp {
+    display: none;
+}
+#panel {
+    border: 1px solid lightgrey;
+    border-radius:3px;
+}
+#jumboImg{
+    height:16%;
+    width:16%;
+    padding-right: 1%;
+}
+
+h1 {
+    text-align:center;
+}
+nav {
+    padding-left:3.9%;   
+}
+h2#add-title {
+    text-align:center; 
+    padding-bottom: 3%;
+}
